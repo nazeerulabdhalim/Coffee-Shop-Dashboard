@@ -34,8 +34,8 @@ Then we add a few extra columns covering the;
 - **hour:** the hour of the day of the transaction happened in 24-hours format.
   
 ## **Executive Summary**
-
-This dashboard provides real-time, dynamic insights into AdventureWorks’ global sales performance:<br/>
+![Overall](/Overall.png)
+This dashboard provides dynamic insights into the coffee shop sales performance:<br/>
 📦 Total Transactions: 149,116 <br/>
 💰 Total Revenue: $699K <br/>
 👥 Average Order Quantity per Customer: 1.44 <br/>
@@ -91,3 +91,8 @@ This dashboard provides real-time, dynamic insights into AdventureWorks’ globa
 ### 6. Store-Specific Strategy
 - Customize offerings per location: e.g., quick “grab-and-go” options in Hell’s Kitchen (commuters) vs. premium sit-down beverages in Lower Manhattan.
 - Revise operating hours for each stores to tailor based on demands.
+
+## Sanpshots
+![Astoria](/Astoria.png)
+![Hell's Kitchen](/Hells_Kitchen.png)
+![Lower Manhattan](/Lower_Manhattan.png)
