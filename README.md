@@ -6,7 +6,8 @@ An interactive dashboard to explore and analyze coffee shop sales in New York us
 [Data Structure](#data-structure-overview) | 
 [Executive Summary](#executive-summary) | 
 [Insights](#deep-dive-insights) | 
-[Recommendations](#recommendations)]
+[Recommendations](#recommendations)] | 
+[Snapshots](#snapshots)
 
 ## **Project Background**
 A coffe shop chain with three locations in New York; Astoria, Hell's Kitchen, and Lower Manhattan. The data is a transactional from Jan-Jun 2023 of the shop. The goal is to transform the data into an interactive dashboard _to identify patterns, trends and opportunities for the business_ using Microsoft Excel.
@@ -92,7 +93,10 @@ This dashboard provides dynamic insights into the coffee shop sales performance:
 - Customize offerings per location: e.g., quick “grab-and-go” options in Hell’s Kitchen (commuters) vs. premium sit-down beverages in Lower Manhattan.
 - Revise operating hours for each stores to tailor based on demands.
 
-## Sanpshots
+## Snapshots
+### Astoria
 ![Astoria](/Astoria.png)
+### Hell's Kitchen
 ![Hell's Kitchen](/Hells_Kitchen.png)
+### Lower Manhattan
 ![Lower Manhattan](/Lower_Manhattan.png)
