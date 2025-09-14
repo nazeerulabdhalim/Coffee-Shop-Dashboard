@@ -15,7 +15,7 @@ A coffe shop chain with three locations in New York; Astoria, Hell's Kitchen, an
 ## **Data Structure Overview**
 
 - **transaction_id:** Unique identifier for each transaction.
-- **transaction_date:** Date of the transaction (MM/DD/YYYY format).
+- **transaction_date:** Date of the transaction (DD/MM/YYYY format).
 - **transaction_time:** Time of the transaction (HH:MM:SS format).
 - **transaction_qty:** Quantity of items in the transaction.
 - **store_id:** Unique identifier for each store.
